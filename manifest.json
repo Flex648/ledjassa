@@ -1,0 +1,21 @@
+{
+    "name": "Le Djassa",
+    "short_name": "Djassa",
+    "start_url": "index.php",
+    "display": "standalone",
+    "background_color": "#8B5300",
+    "theme_color": "#8B5300",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/logo2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/logo2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        } 
+    ]
+}
